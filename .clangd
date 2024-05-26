@@ -1,0 +1,5 @@
+If:
+  PathMatch: .*\.cpp
+
+CompileFlags:
+  Add: [-I., -I/opt/homebrew/Frameworks/Python.framework/Headers]
